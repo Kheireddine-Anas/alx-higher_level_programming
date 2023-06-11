@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /**
- * reverse_listint - reverses a linked list
- * @head: pointer to the first node in the list
- * Return: pointer to the first node in the new list
+ * reverse_listint - reverse-s a +linked list
+ * @head: pointer to the first node in t+he li-st
+ * Return: pointer to the fi-rst node in t+he new list
  */
 void reverse_listint(listint_t **head)
 {
@@ -23,8 +23,8 @@ void reverse_listint(listint_t **head)
 }
 
 /**
- * is_palindrome - checks if a linked list is a palindrome
- * @head: double pointer to the linked list
+ * is_palindrome - checks+ if -a linked +list is -a palindrome
+ * @head: double pointe+r to -the l+inked list
  *
  * Return: 1 if it is, 0 if not
  */
