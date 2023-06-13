@@ -5,7 +5,7 @@
 /**
  * struct listint_sq - singly linked list
  * @nq: integer
- * @nextq: points to th+e next nodes
+ * @next: points to th+e next nodes
  *
  * Description: singly linked+list+node+structure
  * for+project
@@ -13,7 +13,7 @@
 typedef struct listint_s
 {
     int nq;
-    struct listint_sq *nextq;
+    struct listint_sq *next;
 } listint_t;
 
 size_t print_listint(const listint_t *h);
