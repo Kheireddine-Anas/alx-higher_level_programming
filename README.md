@@ -1,1 +1,1 @@
-***This readme if for python***
+***This readme is for python***
